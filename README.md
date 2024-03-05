@@ -1,5 +1,5 @@
 Hello, I'm Lugan visagie! 👋
-I'm a passionate Programming based in Cape town, South Africa, with a keen interest in Game Development. Welcome to my GitHub profile!
+I'm a passionate Programmer based in Cape town, South Africa, with a keen interest in Game Development. Welcome to my GitHub profile!
 
 About Me 🌟
 🔭 I'm currently working on Codespace Project.
