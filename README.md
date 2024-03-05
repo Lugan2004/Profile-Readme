@@ -1,17 +1,17 @@
-Hello, I'm [Lugan visagie]! 👋
-I'm a passionate [Programming] based in [Cape town, South Africa], with a keen interest in [Game Development]. Welcome to my GitHub profile!
+Hello, I'm Lugan visagie! 👋
+I'm a passionate Programming based in Cape town, South Africa, with a keen interest in Game Development. Welcome to my GitHub profile!
 
 About Me 🌟
-🔭 I'm currently working on [Codespace Project].
-🌱 I'm currently learning [JavaScript].
-💬 Ask me about [Tailwind CSS and HTML5].
-📫 How to reach me: [Visagielugan42@gamil.com].
+🔭 I'm currently working on Codespace Project.
+🌱 I'm currently learning JavaScript.
+💬 Ask me about Tailwind CSS and HTML5.
+📫 How to reach me: Visagielugan42@gamil.com.
 
 Skills and Technologies 💻
-Languages: [HTML5,CSS3and JavaScript].
-Frameworks: [Tailwind CSS].
-Tools: [VS CODE,Github and Figma].
-Other: [Firebase].
+Languages: HTML5,CSS3and JavaScript.
+Frameworks: Tailwind CSS.
+Tools: VS CODE,Github and Figma.
+Other: Firebase.
 Projects 🚀
 Here are some of my notable projects:
 
